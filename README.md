@@ -1,11 +1,18 @@
 # Module 5: Population methods
-Welcome to module 5 of the [Neural Data Science Course]().
+This is module one of the [Neural data science course](https://neural-data-science-course.github.io/).
 This modules gives an overview of population methods, i.e. methods for making sense of the simultaneous activity of many neurons.
-These technqiues are of increasing importance for system neuroscientists, due to the fastly increasing number of neurons simultanously accessible with modern recording systems and the importance of studying the collective behaviour of neural populations to uderstand their function.
+These technqiues are of increasing importance for system neuroscientists, due to the quickly increasing number of neurons simultaneously accessible with modern recording systems, and the importance of studying the collective behaviour of neural populations to understand their function.
+
+## Lessons
+01. Dimensionality reduction - 60 minutes
+02. Neural decoding with bayesian methods - 60 minutes 
+03. Neural decoding with Support Vector Machines - 60 minutes
 
 ## Prerequisites
-To make the best out of the material of this module, it's good to have:  
-* 
+To use material of this module profitably, you will need:  
+* Familiarity with python and jupyter
+* Basic knowledge of calculus and linear algebra
+* Basic knowledge of machine learning techniques
 
 ## Setup
 
@@ -45,13 +52,25 @@ jupyter notebook
 **All set!**  
 You're all set to go throrugh the lessons.
 
-## Module overview
-* Lesson 1. Dimensionality reduction - 60 m  
-* Lesson 2. Clustering methods - 30 m  
-* Lesson 3. Neural decoding: naive bayes - 60 m  
-* Lesson 4. Neural decoding: Support Vector Machines - 60 m 
-
 ## Contributors
 This module was created by:  
 * Davide Spalla
+* Bryan Souza
+* Federico Stella
 
+## License
+
+
+Shield: [![CC BY 4.0][cc-by-shield]][cc-by]
+
+This work is licensed under a
+[Creative Commons Attribution 4.0 International License][cc-by].
+
+[![CC BY 4.0][cc-by-image]][cc-by]
+
+[cc-by]: http://creativecommons.org/licenses/by/4.0/
+[cc-by-image]: https://i.creativecommons.org/l/by/4.0/88x31.png
+[cc-by-shield]: https://img.shields.io/badge/License-CC%20BY%204.0-lightgrey.svg
+
+## Citation
+If you want to cite this module, please use:
