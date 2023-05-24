@@ -4,9 +4,9 @@ This modules gives an overview of population methods, i.e. methods for making se
 These technqiues are of increasing importance for system neuroscientists, due to the quickly increasing number of neurons simultaneously accessible with modern recording systems, and the importance of studying the collective behaviour of neural populations to understand their function.
 
 ## Lessons
-01. Dimensionality reduction - 60 minutes
-02. Neural decoding with bayesian methods - 60 minutes 
-03. Neural decoding with Support Vector Machines - 60 minutes
+01. Neural decoding with bayesian methods - 60 minutes 
+02. Neural decoding with Support Vector Machines - 60 minutes
+03. Dimensionality reduction - 60 minutes
 
 ## Prerequisites
 To use material of this module profitably, you will need:  
